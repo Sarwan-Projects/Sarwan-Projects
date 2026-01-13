@@ -43,8 +43,7 @@ I’m **Sarwan**, a Full-Stack Developer passionate about building **secure and 
 ### 🛒 Shopping Cart – Full-Stack E-Commerce Platform
 **Tech:** Java 17, Spring Boot, Spring Security, MySQL, Thymeleaf  
 - Role-based access for **Admin/User**
-- Complete cart & order flow with admin dashboard
-- Secure authentication and optimized database queries  
+- Complete cart & order flow with admin dashboard  
 🔗 **Live Demo:** https://shopping-cart-mul2.onrender.com/  
 📌 **Repo:** https://github.com/Sarwan-Projects/Shopping-Cart  
 
@@ -53,8 +52,7 @@ I’m **Sarwan**, a Full-Stack Developer passionate about building **secure and 
 ### 📋 Collaborative Task Manager (TaskFlow) – Real-Time App
 **Tech:** React, Node.js, MongoDB, Socket.io  
 - Real-time task updates across multiple users
-- Secure login using JWT + HttpOnly cookies
-- Filters, priorities, status tracking & task history  
+- Secure login using JWT + HttpOnly cookies  
 🔗 **Live Demo:** https://collaborative-task-manager-indol.vercel.app/  
 📌 **Repo:** https://github.com/Sarwan-Projects/Collaborative-Task-Manager  
 
@@ -63,17 +61,23 @@ I’m **Sarwan**, a Full-Stack Developer passionate about building **secure and 
 ### ✈️ MakeMyTrip Clone – Booking Platform
 **Tech:** Spring Boot, Next.js, MongoDB, Tailwind CSS  
 - Booking workflows and responsive UI
-- Admin features + REST APIs with authentication
 - Deployed using Docker + Render  
 🔗 **Live Demo:** https://make-my-trip-clone-1-s4of.onrender.com/  
 📌 **Repo:** https://github.com/Sarwan-Projects/make-my-trip-clone  
 
 ---
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
+<hr/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,react,nextjs,tailwind,mongodb,mysql,aws,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mongodb,mysql,aws,docker" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
@@ -83,15 +87,15 @@ I’m **Sarwan**, a Full-Stack Developer passionate about building **secure and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarwan-Projects&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwan-Projects&theme=github-dark&hide_border=true&cache_seconds=86400" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Sarwan-Projects&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwan-Projects&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 <h3>✍️ Developer Note</h3>
 
-> *“I’m still learning every day, but I focus on writing better code than I did yesterday.”*
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sarwan-Projects&icon=0&color=0"/>
-</p>
+> *“I’m still learning every day,*
