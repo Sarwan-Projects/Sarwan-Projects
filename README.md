@@ -39,16 +39,6 @@ I’m **Sarwan**, a Full-Stack Developer who enjoys building **secure and scalab
 
 ---
 
-## ✅ Quick Highlights
-
-- ✅ Production-ready full-stack projects with live deployments  
-- ✅ Secure authentication (**JWT / Spring Security / HttpOnly cookies**)  
-- ✅ Real-time features (**Socket.io / WebSockets**)  
-- ✅ Clean architecture and scalable backend design  
-- ✅ Strong focus on building real-world applications  
-
----
-
 ## 🚀 Featured Projects
 
 <p>
