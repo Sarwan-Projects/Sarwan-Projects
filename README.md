@@ -20,13 +20,32 @@
 
 ## 💫 About Me
 
-I’m **Sarwan**, a Full-Stack Developer focused on building **secure and scalable web applications**.
+I’m **Sarwan**, a Full-Stack Developer who enjoys building **secure and scalable web applications**.
 
 - 🔐 Backend development with **Spring Boot + Spring Security**
 - ⚡ REST APIs and real-time apps (**Socket.io / WebSockets**)
 - 🎨 Responsive frontend with **React / Next.js**
 - ☁️ Deployment with **AWS, Docker, Render & Vercel**
 - 📚 Currently improving **System Design + DSA**
+
+---
+
+## 🧠 Currently Working On
+
+- Improving **system design** and backend scalability  
+- Learning **Kafka & distributed systems** fundamentals  
+- Writing **cleaner, testable Spring Boot code**  
+- Practicing **Data Structures & Algorithms (DSA)** regularly  
+
+---
+
+## ✅ Quick Highlights
+
+- ✅ Production-ready full-stack projects with live deployments  
+- ✅ Secure authentication (**JWT / Spring Security / HttpOnly cookies**)  
+- ✅ Real-time functionality (**Socket.io / WebSockets**)  
+- ✅ Clean architecture and scalable backend design  
+- ✅ Strong focus on building real-world applications  
 
 ---
 
@@ -69,17 +88,7 @@ I’m **Sarwan**, a Full-Stack Developer focused on building **secure and scalab
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<hr/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarwan-Projects&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-<h3>✍️ Developer Note</h3>
-
+### ✍️ Developer Note
 > *“I’m still learning every day, but I focus on writing better code than I did yesterday.”*
 
 <p align="center">
